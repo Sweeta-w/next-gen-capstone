@@ -1,0 +1,17 @@
+[
+    {
+        "domain": "Web Development",
+        "date": "August 12, 2026",
+        "status": "Under Review"
+    },
+    {
+        "domain": "AI Tools & Prompt Engineering",
+        "date": "August 14, 2026",
+        "status": "Selected"
+    },
+    {
+        "domain": "Data Science",
+        "date": "August 16, 2026",
+        "status": "Rejected"
+    }
+]
